@@ -1,0 +1,9 @@
+{
+  "name": "Sen-Brandon ChatApp",
+  "version": "0.0.1",
+  "description": "Second Project ChatApp",
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io": "^2.0.4"
+  }
+}
